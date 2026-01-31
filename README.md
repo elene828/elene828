@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Linux basics, Networking , SQL**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/Portfolio-b8f2230214f18360863c014d645c4504](https://www.notion.so/Portfolio-b8f2230214f18360863c014d645c4504)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.notion.so/Portfolio-b8f2230214f18360863c014d645c4504)
 
 - 💬 Ask me about **Kali Linux and Ubuntu setup and usage**
 
